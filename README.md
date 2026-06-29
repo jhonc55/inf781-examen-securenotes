@@ -108,8 +108,10 @@ http://localhost:3000
 | ------ | -------------- | -------------------------- |
 | POST   | /auth/register | Registro de usuarios       |
 | POST   | /auth/login    | Inicio de sesión           |
+| POST   | /auth/logout   | Cierre de sesion           |
 | POST   | /auth/refresh  | Renovación de access token |
 | GET    | /auth/me       | Usuario autenticado        |
+
 
 ### Notas
 
